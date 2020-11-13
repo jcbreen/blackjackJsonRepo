@@ -1,8 +1,8 @@
 {
   "tips": [
-    { "name": 1, "text": "Stand when your hand is 12 through 16 and the dealer has a 2 through 6." },
-    { "name": 2, "text": "Hit when your hand is 12 through 16 and the dealer has 7 through Ace." },
-    { "name": 3, "text": "Hit if the dealer has Aces through 6" }
+    { "tipName": 1, "text": "Stand when your hand is 12 through 16 and the dealer has a 2 through 6." },
+    { "tipName": 2, "text": "Hit when your hand is 12 through 16 and the dealer has 7 through Ace." },
+    { "tipName": 3, "text": "Hit if the dealer has Aces through 6" }
   ],
   "profile": {
     "name": "typicode"
