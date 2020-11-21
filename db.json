@@ -1,8 +1,14 @@
 {
   "tips": [
-    { "tipName": 1, "TipText": "Stand when your hand is 12 through 16 and the dealer has a 2 through 6." },
-    { "tipName": 2, "TipText": "Hit when your hand is 12 through 16 and the dealer has 7 through Ace." },
-    { "tipName": 3, "TipText": "Hit if the dealer has Aces through 6" }
+    { "tipName": 1, "TipText": "Stand when your hand is 12 through 16 and the dealer has a 2 through 6" },
+    { "tipName": 2, "TipText": "Hit when your hand is 12 through 16 and the dealer has 7 through Ace" },
+    { "tipName": 3, "TipText": "Hit if the dealer has Aces through 6" },
+    { "tipName": 4, "TipText": "Do not hit if you have two 10s" },
+    { "tipName": 5, "TipText": "Stand if you have an Ace and a 10" },
+    { "tipName": 6, "TipText": "Hit if you have two 3s" },
+    { "tipName": 7, "TipText": "Think about hitting if you have a 4 and 10" },
+    { "tipName": 8, "TipText": "After a win bet again to win more" },
+    { "tipName": 9, "TipText": "If you lose all your cash load more on in the settings" }
   ],
   "profile": {
     "name": "typicode"
